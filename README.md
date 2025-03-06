@@ -46,6 +46,3 @@ INVENTORY{
 Supplies MoreProducts
 }
 ```
-
-# Index.HTML
-file:///C:/Users/mexic/Index.HTML
