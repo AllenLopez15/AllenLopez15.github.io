@@ -22,7 +22,7 @@ Sports.
 * educational 
 * entertainment.
 
-###Mermaid
+### Mermaid
 # https-AllenLopez15.github.io
 ```mermaid
 erDiagram
@@ -46,3 +46,6 @@ INVENTORY{
 Supplies MoreProducts
 }
 ```
+
+# Index.HTML
+file:///C:/Users/mexic/Index.HTML
