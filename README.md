@@ -24,3 +24,6 @@ Sports.
 
 # Index.HTML
 file:///C:/Users/mexic/Index.HTML
+
+#gradebook
+file:///C:/CTI/Gradebook/Lopez-Licona_gradebook.html
