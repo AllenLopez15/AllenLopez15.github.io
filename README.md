@@ -27,3 +27,6 @@ file:///C:/Users/mexic/Index.HTML
 
 # gradebook
 file:///C:/CTI/Gradebook/Lopez-Licona_gradebook.html
+
+# fixed Javascript
+file:///C:/CTI/Gradebook/fixed%20Javascript.html
